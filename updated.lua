@@ -1,2 +1,2 @@
-gg.alert("😊 Evet Güncel Loaderi Kullanıyorsunuz ☑️")
-gg.alert("👁️‍🗨️ Şuanlık Beta sürümünü kullanıyorsunuz \n💽 Yakında Tam versiyon olacak ☑️")
+gg.alert("😊 Admin Servere Bakım Yapacak ☑️")
+gg.alert("⌚ 18:00 da Bakım Başlayacak")
